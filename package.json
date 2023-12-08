@@ -6,7 +6,7 @@
   "scripts": {
     "test": "test",
     "start": "start",
-    "build": "build"
+    "build": "browser-sync start --server \'build\' --files \'build\'"
   },
   "author": "ChefTuber",
   "license": "ISC",
@@ -15,5 +15,8 @@
     "gmaps": "^0.4.25",
     "jquery": "^3.7.1",
     "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.3"
   }
 }
