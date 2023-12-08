@@ -1,0 +1,11 @@
+{
+  "name": "boblox-unblocked",
+  "version": "1.0.0",
+  "description": "roblox on render",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ChefTuber",
+  "license": "ISC"
+}
