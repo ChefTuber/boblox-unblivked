@@ -4,7 +4,8 @@
   "description": "roblox on render",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "build"
   },
   "author": "ChefTuber",
   "license": "ISC",
